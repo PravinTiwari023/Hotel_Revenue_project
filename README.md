@@ -1,7 +1,10 @@
 # Hotel_Revenue_project
 End to End Data Analytics Project
+* Excel
+* MS SQL Server
+* PowerBI
 
-Business problem was 
+### Business problem:
 
 1. How is our hotel revenue is growing by year?
 2. Should we increase our parking lot size?
